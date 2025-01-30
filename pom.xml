@@ -94,7 +94,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>ULDIF</finalName> <!-- Change this to your desired name -->
+		<finalName>sms</finalName> <!-- Change this to your desired name -->
 
 	</build>
 
